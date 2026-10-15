@@ -1,0 +1,10 @@
+{
+  "upstream": "BandarHL/BHTikTok",
+  "name": "BHTikTok",
+  "base": {
+    "name": "TikTok",
+    "bundleId": "com.zhiliaoapp.musically",
+    "appStoreId": 835599320,
+    "version": { "from": "any" }
+  }
+}
